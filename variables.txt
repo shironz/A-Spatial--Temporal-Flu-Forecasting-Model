@@ -1,0 +1,15 @@
+Variables names:
+V1: State
+V2: Year
+V3: Month
+V4: Polulation for each state, unit: count
+V5: Median income for each state $
+V6: Temperature
+V7: Precipitation
+V8: The share of white persons
+V9: The share of African American
+V10: The share of American Indian and Alaskan Native
+V11: The share of Asian
+V12: The share of Native Hawaiian and other Pacific Islander
+V13: The share of wo or more Races
+V14: number of flu
